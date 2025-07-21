@@ -99,4 +99,3 @@ Rodrigo F. M. Nogueira
 Desenvolvedor .NET | Clean Architecture | DDD | APIs
 
 LinkedIn – (https://www.linkedin.com/in/rodrigo-nogueira-37276b1b5/)
-GitHub
